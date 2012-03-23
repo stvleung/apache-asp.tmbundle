@@ -9,10 +9,10 @@ Next</string>
 	<key>name</key>
 	<string>For … in … Next</string>
 	<key>scope</key>
-	<string>source.asp</string>
+	<string>source.apache-asp</string>
 	<key>tabTrigger</key>
 	<string>forin</string>
 	<key>uuid</key>
-	<string>6D6BE8AC-63AB-11D9-B316-000A95CA2CD0</string>
+	<string>7D6BE8AC-63AB-11D9-B316-000A95CA2CD0</string>
 </dict>
 </plist>
