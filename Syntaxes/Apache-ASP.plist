@@ -44,7 +44,7 @@
 				<key>0</key>
 				<dict>
 					<key>name</key>
-					<string>punctuation.section.embedded.begin.asp</string>
+					<string>punctuation.section.embedded.begin.apache-asp</string>
 				</dict>
 			</dict>
 			<key>end</key>
@@ -71,9 +71,9 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(').*?(?=%&gt;)</string>
+					<string>(#).*?(?=%&gt;)</string>
 					<key>name</key>
-					<string>comment.line.apostrophe.apache-asp</string>
+					<string>comment.line.pound.apache-asp</string>
 				</dict>
 				<dict>
 					<key>include</key>
