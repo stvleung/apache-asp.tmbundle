@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Session("${1:whatever}")</string>
+	<string>$Session("${1:whatever}")</string>
 	<key>name</key>
-	<string>Session("…")</string>
+	<string>$Session("…")</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>

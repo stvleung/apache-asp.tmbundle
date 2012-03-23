@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Response.Redirect(${1:to})</string>
+	<string>$Response.Redirect(${1:to})</string>
 	<key>name</key>
-	<string>Response.Redirect</string>
+	<string>$Response.Redirect</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>

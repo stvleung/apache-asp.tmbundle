@@ -9,7 +9,7 @@
 	<key>keyEquivalent</key>
 	<string>^~A</string>
 	<key>name</key>
-	<string>Apache::ASP</string>
+	<string>HTML (Apache::ASP)</string>
 	<key>patterns</key>
 	<array>
 		<dict>

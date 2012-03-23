@@ -3,13 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>If ${1:condition} Then
+	<string>if (${1:condition}) {
 	${2:' true}
-Else
+}
+else {
 	${3:' false}
-End if</string>
+}</string>
 	<key>name</key>
-	<string>If … End if</string>
+	<string>if … else …</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>

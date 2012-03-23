@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Response.Write </string>
+	<string>$Response.Write </string>
 	<key>name</key>
-	<string>Response.Write</string>
+	<string>$Response.Write</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>

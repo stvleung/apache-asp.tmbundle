@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>For ${1:var} in ${2:array}
+	<string>foreach my ${1:var} (${2:array}) {
 	${3:' body}
-Next</string>
+}</string>
 	<key>name</key>
-	<string>For … in … Next</string>
+	<string>foreach …</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>
-	<string>forin</string>
+	<string>foreach</string>
 	<key>uuid</key>
 	<string>7D6BE8AC-63AB-11D9-B316-000A95CA2CD0</string>
 </dict>

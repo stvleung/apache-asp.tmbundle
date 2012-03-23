@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>While ${1:NOT ${2:condition}}
+	<string>while (${1:NOT ${2:condition}}) {
 	${3:' body}
-Wend</string>
+}</string>
 	<key>name</key>
-	<string>While … Wend</string>
+	<string>while …</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>

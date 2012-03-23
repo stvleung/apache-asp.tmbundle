@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Request.QueryString("${1:name}")</string>
+	<string>$Request.QueryString("${1:name}")</string>
 	<key>name</key>
-	<string>Request.QueryString</string>
+	<string>$Request.QueryString</string>
 	<key>scope</key>
 	<string>source.apache-asp</string>
 	<key>tabTrigger</key>
